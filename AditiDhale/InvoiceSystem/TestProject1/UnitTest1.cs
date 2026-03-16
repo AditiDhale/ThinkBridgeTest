@@ -18,7 +18,12 @@ namespace TestProject1
         public void Test1()
         {
             // Arrange
-            UsageRecord record = new UsageRecord();
+            UsageRecord record = new UsageRecord { 
+                CustomerId = "CUST001",
+                API_Calls = 9500,
+                Storage_GB = 40,
+                Compute_Minutes = 100
+            };
             // Act
             var actualResult = _calcService.Calculate(record);
             // Assert

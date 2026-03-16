@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{4EC496EC-A4FD-4C78-9711-0F866219E098}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|d:\\getting interview ready\\thinkbridge\\thinkbridgetest\\aditidhale\\invoicesystem\\invoicesystem\\services\\inputloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|solutionrelative:invoicesystem\\services\\inputloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|d:\\getting interview ready\\thinkbridge\\thinkbridgetest\\aditidhale\\invoicesystem\\invoicesystem\\services\\invoiceprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|solutionrelative:invoicesystem\\services\\invoiceprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|d:\\getting interview ready\\thinkbridge\\thinkbridgetest\\aditidhale\\invoicesystem\\invoicesystem\\services\\invoicecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|solutionrelative:invoicesystem\\services\\invoicecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|d:\\getting interview ready\\thinkbridge\\thinkbridgetest\\aditidhale\\invoicesystem\\invoicesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|solutionrelative:invoicesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|d:\\getting interview ready\\thinkbridge\\thinkbridgetest\\aditidhale\\invoicesystem\\invoicesystem\\services\\inputloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|solutionrelative:invoicesystem\\services\\inputloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|d:\\getting interview ready\\thinkbridge\\thinkbridgetest\\aditidhale\\invoicesystem\\invoicesystem\\services\\invoiceprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{283A5E9A-3544-6614-4CFD-89A2362C5050}|InvoiceSystem\\InvoiceSystem.csproj|solutionrelative:invoicesystem\\services\\invoiceprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,38 +44,39 @@
               "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
               "ToolTip": "D:\\Getting interview Ready\\ThinkBridge\\ThinkBridgeTest\\AditiDhale\\InvoiceSystem\\TestProject1\\UnitTest1.cs*",
               "RelativeToolTip": "TestProject1\\UnitTest1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T10:37:29.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "InvoiceSystem",
               "DocumentMoniker": "D:\\Getting interview Ready\\ThinkBridge\\ThinkBridgeTest\\AditiDhale\\InvoiceSystem\\InvoiceSystem\\InvoiceSystem.csproj",
               "RelativeDocumentMoniker": "InvoiceSystem\\InvoiceSystem.csproj",
               "ToolTip": "D:\\Getting interview Ready\\ThinkBridge\\ThinkBridgeTest\\AditiDhale\\InvoiceSystem\\InvoiceSystem\\InvoiceSystem.csproj",
               "RelativeToolTip": "InvoiceSystem\\InvoiceSystem.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-16T10:26:58.418Z"
+              "WhenOpened": "2026-03-16T10:26:58.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "InvoiceCalculator.cs",
               "DocumentMoniker": "D:\\Getting interview Ready\\ThinkBridge\\ThinkBridgeTest\\AditiDhale\\InvoiceSystem\\InvoiceSystem\\Services\\InvoiceCalculator.cs",
               "RelativeDocumentMoniker": "InvoiceSystem\\Services\\InvoiceCalculator.cs",
               "ToolTip": "D:\\Getting interview Ready\\ThinkBridge\\ThinkBridgeTest\\AditiDhale\\InvoiceSystem\\InvoiceSystem\\Services\\InvoiceCalculator.cs",
               "RelativeToolTip": "InvoiceSystem\\Services\\InvoiceCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T10:09:52.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "InvoicePrinter.cs",
               "DocumentMoniker": "D:\\Getting interview Ready\\ThinkBridge\\ThinkBridgeTest\\AditiDhale\\InvoiceSystem\\InvoiceSystem\\Services\\InvoicePrinter.cs",
               "RelativeDocumentMoniker": "InvoiceSystem\\Services\\InvoicePrinter.cs",
@@ -83,11 +84,12 @@
               "RelativeToolTip": "InvoiceSystem\\Services\\InvoicePrinter.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAswAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T10:08:09.647Z"
+              "WhenOpened": "2026-03-16T10:08:09.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "InputLoader.cs",
               "DocumentMoniker": "D:\\Getting interview Ready\\ThinkBridge\\ThinkBridgeTest\\AditiDhale\\InvoiceSystem\\InvoiceSystem\\Services\\InputLoader.cs",
               "RelativeDocumentMoniker": "InvoiceSystem\\Services\\InputLoader.cs",
@@ -95,11 +97,12 @@
               "RelativeToolTip": "InvoiceSystem\\Services\\InputLoader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T09:58:06.517Z"
+              "WhenOpened": "2026-03-16T09:58:06.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Getting interview Ready\\ThinkBridge\\ThinkBridgeTest\\AditiDhale\\InvoiceSystem\\InvoiceSystem\\Program.cs",
               "RelativeDocumentMoniker": "InvoiceSystem\\Program.cs",

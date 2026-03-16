@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "InvoiceSystem": {
+      "commandName": "Project",
+      "commandLineArgs": "usage-data.json"
+    }
+  }
+}

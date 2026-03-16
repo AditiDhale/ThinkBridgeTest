@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Getting interview Ready\\InvoiceSystem\\InvoiceSystem\\InvoiceSystem.csproj",
+      "projectUniqueName": "D:\\Getting interview Ready\\ThinkBridge\\ThinkBridgeTest\\AditiDhale\\InvoiceSystem\\InvoiceSystem\\InvoiceSystem.csproj",
       "projectName": "InvoiceSystem",
-      "projectPath": "D:\\Getting interview Ready\\InvoiceSystem\\InvoiceSystem\\InvoiceSystem.csproj",
+      "projectPath": "D:\\Getting interview Ready\\ThinkBridge\\ThinkBridgeTest\\AditiDhale\\InvoiceSystem\\InvoiceSystem\\InvoiceSystem.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "D:\\Getting interview Ready\\InvoiceSystem\\InvoiceSystem\\obj\\",
+      "outputPath": "D:\\Getting interview Ready\\ThinkBridge\\ThinkBridgeTest\\AditiDhale\\InvoiceSystem\\InvoiceSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
